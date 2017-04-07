@@ -149,6 +149,3 @@ if(rc){
     pthread_exit(NULL);
     
 }
-
-
-//:)~
